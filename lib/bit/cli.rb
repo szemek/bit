@@ -1,4 +1,5 @@
 require 'bit'
+require 'thor'
 
 module Bit
   class CLI < Thor
