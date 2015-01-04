@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'bit'
+require 'bit/cli'
+
+Bit::CLI.start(ARGV, :debug => true)

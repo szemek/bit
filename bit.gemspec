@@ -8,8 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Bit::VERSION
   spec.authors       = ["Przemysław Dąbek"]
   spec.email         = ["przemyslaw.dabek@lunarlogic.io"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{git wrapper with support for Bitbucket}
   spec.homepage      = ""
   spec.license       = "MIT"
 
