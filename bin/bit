@@ -1,6 +1,5 @@
 #!/usr/bin/env ruby
 
+require 'gli'
 require 'bit'
-require 'bit/cli'
-
-Bit::CLI.start(ARGV, :debug => true)
+include Bit::CLI
